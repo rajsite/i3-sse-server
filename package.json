@@ -1,0 +1,23 @@
+{
+  "name": "i3-sse-server",
+  "version": "1.0.0",
+  "description": "Server Sent Event Toolkit for LabVIEW Web Services",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ."
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsite/i3-sse-server.git"
+  },
+  "author": "Milan Raj (@rajsite)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajsite/i3-sse-server/issues"
+  },
+  "homepage": "https://github.com/rajsite/i3-sse-server#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  }
+}
